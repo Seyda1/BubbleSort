@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2012\Projects\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe.config
+c:\users\lenovo\documents\visual studio 2012\Projects\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe
+c:\users\lenovo\documents\visual studio 2012\Projects\BubbleSort\BubbleSort\bin\Debug\BubbleSort.pdb
+c:\users\lenovo\documents\visual studio 2012\Projects\BubbleSort\BubbleSort\obj\Debug\BubbleSort.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2012\Projects\BubbleSort\BubbleSort\obj\Debug\BubbleSort.exe
+c:\users\lenovo\documents\visual studio 2012\Projects\BubbleSort\BubbleSort\obj\Debug\BubbleSort.pdb
